@@ -1,4 +1,5 @@
 import { Box } from "@chakra-ui/react";
+import EditorPage from "./components/EditorPage";
 import CodeEditor from "./components/CodeEditor";
 
 function App() {
